@@ -50,3 +50,14 @@
 - Database systems organize normalized data into multiple, related tables.
 - Each table contains multiple fields (columns).
 - Tables store various records (rows).
+
+
+# Database Server Vs Databases Vs Table Vs Data  
+- when u install mySQL or postgre you are installing an Database server where we can create multiple databases.
+- we may have multiple tables in 1 database.
+- Data are in the tables.
+
+<img width="1455" height="707" alt="image" src="https://github.com/user-attachments/assets/d98533a9-8544-449b-b474-7815bd16ccb5" />  
+
+
+
