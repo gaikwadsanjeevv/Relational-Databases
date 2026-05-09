@@ -1,5 +1,7 @@
 # SQL Is A Language For Handling Structured, Relational Data
 
+## Fields  
+- Each column in a table is called a Field.  
 ## Employees Table
 
 | id | name  | salary | dep_id |
